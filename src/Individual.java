@@ -12,8 +12,10 @@ Street Address (string)
 City (string)
 Zip code (string)
 
+Use nested for loop to print both the type of information (such as "first name:") and the result element from user input
+
 Output:
-Result (combination of the above information)
+Result (array of information)
  */
 
 import java.util.Scanner;
