@@ -44,7 +44,7 @@ public class Individual {
         zip = scnr.nextLine();
         result[4] = zip;
 
-        System.out.println("The fictional character information is: ");
+        System.out.println("\nThe fictional character information is:\n");
         for (int i = 0; i < result.length; i++) {
             if (i == 0)
                 System.out.print("First Name: ");
